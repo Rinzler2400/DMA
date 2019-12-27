@@ -1,0 +1,62 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "bewitchment:book_of_shadows": {
+      "viewedEntries": [
+        "bewitchment:magical_overview/athame",
+        "bewitchment:magical_overview/hecates_visage",
+        "bewitchment:magical_overview/girdle_of_the_dryads",
+        "bewitchment:distilling_and_smelting/basic_fumes",
+        "bewitchment:magical_overview/nazar",
+        "bewitchment:magical_overview/token_of_remedies",
+        "bewitchment:magical_overview/witches_devices",
+        "bewitchment:magical_overview/triskelion",
+        "bewitchment:magical_overview/horseshoe",
+        "bewitchment:magical_overview/grimoire_magia",
+        "bewitchment:magical_overview/fortunes_favor",
+        "bewitchment:world/animals",
+        "bewitchment:world/spirits",
+        "bewitchment:brazier/incense",
+        "bewitchment:poppets/clumsiness",
+        "bewitchment:poppets/vampiric",
+        "bewitchment:poppets/voodoo",
+        "bewitchment:poppets/tool",
+        "bewitchment:spinning_wheel/witches_robes",
+        "bewitchment:sigils/sentinel",
+        "bewitchment:sigils/mending",
+        "bewitchment:rituals/rising_twigs",
+        "bewitchment:rituals/world_manipulation",
+        "bewitchment:rituals/teleportation",
+        "bewitchment:poppets/water"
+      ],
+      "bookmarks": [],
+      "history": [
+        "bewitchment:poppets/water",
+        "bewitchment:rituals/teleportation",
+        "bewitchment:rituals/world_manipulation",
+        "bewitchment:magical_overview/witches_devices",
+        "bewitchment:rituals/rising_twigs",
+        "bewitchment:sigils/mending",
+        "bewitchment:sigils/sentinel",
+        "bewitchment:spinning_wheel/witches_robes",
+        "bewitchment:poppets/tool",
+        "bewitchment:poppets/voodoo",
+        "bewitchment:poppets/vampiric",
+        "bewitchment:poppets/clumsiness",
+        "bewitchment:brazier/incense"
+      ],
+      "completedManualQuests": []
+    },
+    "mmorpg:tutorial_book": {
+      "viewedEntries": [
+        "mmorpg:stations/repair"
+      ],
+      "bookmarks": [],
+      "history": [
+        "mmorpg:stations/repair"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}
